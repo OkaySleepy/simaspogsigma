@@ -1,39 +1,19 @@
-# 👋 Hey, I'm Simaspog!
-
-Welcome to my GitHub profile! I'm a **16-year-old developer** with **2 year of experience**, currently focused on creating high-quality, custom Minecraft plugins to make servers more fun and unique.
-
----
-
-## 👨‍💻 About Me
-
-- 🧠 Learning and improving every day!
-- 💻 Developer with experience in **Java** and **Skript**
-- 🎮 Passionate about Minecraft server development
-- 🛠️ Currently working on improving my plugin creation skills to make **perfect and custom plugins** that take servers to the next level.
-
----
-
-## 🚀 Projects
-
-### 🌐 Public
-- **[NoLootSpread](https://builtbybit.com/resources/nolootspread-fix-loot-drops-on-death.67014/)** - A simple plugin that prevents loot from spreading across the ground.
-
-### 🔒 Private
-- **RushBoxCore** - A custom core made for a private server project.
-
----
-
-## 📫 Contact Me
-
-- **Discord:** `simaspog.`  
-(Feel free to reach out if you want to collaborate or chat!)
-
----
-
-## 🌟 Goals
-
-- Master advanced plugin development
-- Release more public and open-source projects
-- Learn best practices for clean, scalable code
-
-Thanks for visiting my profile! 🚀
+<h1>Hi 👋, I'm Simaspog</h1>
+<p>A passionate Minecraft Developer</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.youtube.com/@simaspog" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=simaspogsigma&show_icons=true&locale=en" alt="simaspogsigma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simaspogsigma&" alt="simaspogsigma" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=simaspogsigma&show_icons=true&locale=en&layout=compact" alt="simaspogsigma" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simaspogsigma" alt="simaspogsigma" /></a></p>
