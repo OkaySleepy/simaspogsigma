@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Simaspog&fontSize=60&fontColor=ffffff&desc=Passionate%20Minecraft%20Developer&descFontSize=20&descAlignY=70" alt="Simaspog Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2B2D31&height=220&section=header&text=Simaspog&fontSize=60&fontColor=ffffff&desc=Passionate%20Minecraft%20Developer&descFontSize=20&descAlignY=70" alt="Simaspog Banner"/>
 
 <br><br>
 
 <a href="https://www.youtube.com/@simaspog" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://discord.com/users/1241123086653194374" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 </div>
@@ -56,15 +59,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=simaspogsigma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=simaspogsigma&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaspogsigma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-
-<br><br>
-
-<img width="700" src="https://streak-stats.demolab.com?user=simaspogsigma&theme=tokyonight&hide_border=true" alt="Streak" />
+<img width="700" src="https://streak-stats.demolab.com?user=simaspogsigma&theme=dark&hide_border=true" alt="Streak" />
 
 </div>
